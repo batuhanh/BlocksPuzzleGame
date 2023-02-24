@@ -1,7 +1,9 @@
 # Blocks Puzzle Game
 
-**Unity Version:** 2020.3.15f2
+**Unity Version:** 2020.3.15f2 
+
 **Target Platform:** Android
+
 **Levels Format:** JSON
 
 In this game, all the levels are created by the **Procuderal Level Creation Algorithm** that we give their inputs.
